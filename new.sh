@@ -1,3 +1,3 @@
 #!bin/sh
 
-echo 'its a new branch'
+echo 'its a new half'
